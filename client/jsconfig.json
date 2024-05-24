@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 {
     "compilerOptions": {
-        "baseUrl": "src"
+      "baseUrl": "src"
     },
     "include": ["src"]
-=======
-{
-    "compilerOptions": {
-        "baseUrl": "src"
-    },
-    "include": ["src"]
->>>>>>> 9c081d8 (first commit)
-}
+  }
+  
