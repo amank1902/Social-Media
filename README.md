@@ -4,10 +4,10 @@ Sociomedia is a social media website designed to connect people, share ideas, an
 <h3>Features</h3>
 <b>User Authentication</b>: Secure login and registration with encrypted passwords.
 <br>
-Profile Management: Users can create, edit, and view profiles.
+<b>Profile Management</b>: Users can create, edit, and view profiles.
 <br>
-Posts and Comments: Users can create posts and engage in discussions.
+<b>Posts and Comments</b>: Users can create posts and engage in discussions.
 <br>
-Real-time Updates: Real-time updates using WebSockets for instant notifications and messages.
+<b>Real-time Updates</b>: Real-time updates using WebSockets for instant notifications and messages.
 <br>
-Responsive Design: Optimized for both desktop and mobile devices.
+<b>Responsive Design</b>: Optimized for both desktop and mobile devices.
