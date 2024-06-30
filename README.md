@@ -1,7 +1,7 @@
-<h1>Sociomedia</h1>
+<h2>Sociomedia</h2>
 Sociomedia is a social media website designed to connect people, share ideas, and foster communication. This project is built using modern web technologies for both the frontend and backend, ensuring a dynamic and responsive user experience.
 
-Features
+<h4>Features</h4>
 <br>
 User Authentication: Secure login and registration with encrypted passwords.
 <br>
